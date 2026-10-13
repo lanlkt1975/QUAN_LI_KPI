@@ -1,0 +1,6 @@
+# Firebase credentials and local editor files must never be published.
+firebase-config.js
+.firebaserc
+.firebase/
+node_modules/
+.vscode/
